@@ -124,7 +124,7 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92msaahir Khan
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_saahir_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92m saahir.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/saahirkhan1/saahirkhan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/saahir-khan/saahirkhan
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
